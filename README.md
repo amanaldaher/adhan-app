@@ -38,7 +38,9 @@ Check out the live website here:
 ├── index.html
 └── README.md
 ```
-💻 How to Run Locally
+<hr>
+
+## 💻 How to Run Locally
 Clone the repository:
 
 Bash
@@ -52,8 +54,8 @@ Open the project:
 Double-click index.html to open it in your browser.
 
 Or open the folder in VS Code and run it using the Live Server extension.
-
-📬 Connect With Me
+<hr>
+## 📬 Connect With Me
 Email: aman.aldaher.4@gmail.com
 
 LinkedIn: Aman Aldaher
