@@ -54,7 +54,9 @@ Open the project:
 Double-click index.html to open it in your browser.
 
 Or open the folder in VS Code and run it using the Live Server extension.
+
 <hr>
+
 ## 📬 Connect With Me
 Email: aman.aldaher.4@gmail.com
 
