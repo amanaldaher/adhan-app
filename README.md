@@ -70,5 +70,5 @@ LinkedIn: Aman Aldaher
 GitHub: @amanaldaher
 
 Instagram: @aman_aldaher
-
+<hr>
 © 2026 Aman. All Rights Reserved.
