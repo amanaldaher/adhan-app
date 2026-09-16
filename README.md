@@ -1,5 +1,10 @@
 # 🌙 Azan App | Modern Prayer Times Tracker
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://aladhan.com/prayer-times-api)
+
 A clean, modern, and responsive web application designed to calculate and display accurate Islamic prayer times based on user location, featuring automatic Hijri date conversion and a real-time next prayer indicator.
 
 This project serves as a showcase of my front-end development skills, API integration workflows, and UI design interests as an IT Engineering student.
