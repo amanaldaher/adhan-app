@@ -4,14 +4,14 @@ A clean, modern, and responsive web application designed to calculate and displa
 
 This project serves as a showcase of my front-end development skills, API integration workflows, and UI design interests as an IT Engineering student.
 
----
+<hr>
 
 ## 🚀 Live Demo
 
 Check out the live website here:  
 👉 [View Prayer Times App](https://amanaldaher.github.io/adhan-app/)
 
----
+<hr>
 
 ## 📌 Features
 
@@ -21,7 +21,7 @@ Check out the live website here:
 - **Location & Date Flexibility:** Allows querying prayer times for any custom city, country code, or calendar date.
 - **Lightweight & Fast:** Built purely with Vanilla technologies without heavy third-party runtime frameworks.
 
----
+<hr>
 
 ## 🛠️ Built With
 
@@ -30,7 +30,7 @@ Check out the live website here:
 - **Vanilla JavaScript:** Asynchronous API handling via `fetch` & `async/await`, Date object calculation, and DOM manipulation.
 - **Aladhan API:** Reliable REST API for prayer timings and Hijri calendar calculation.
 
----
+<hr>
 
 ## 📂 Project Structure
 
@@ -61,3 +61,5 @@ LinkedIn: Aman Aldaher
 GitHub: @amanaldaher
 
 Instagram: @aman_aldaher
+
+© 2026 Aman. All Rights Reserved.
